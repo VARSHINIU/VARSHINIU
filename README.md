@@ -79,6 +79,9 @@ The framework intelligently identifies fallback elements using:
 - class-based scoring
 - fallback locator prioritization
 
+![SmartHeal Demo](assets/FailedTestPlay.PNG)
+![SmartHeal Demo](assets/SmartHeal.PNG)
+
 ### ✨ Key Features
 - Plugin-free implementation
 - Handles broken selectors dynamically
@@ -99,6 +102,10 @@ The framework intelligently identifies fallback elements using:
 - ID matching
 - class-based scoring
 - fallback locator prioritization
+
+![SmartHeal Demo](assets/ValidSelector.jpg)
+![SmartHeal Demo](assets/SmartGet.jpg)
+
 
 ### ✨ Key Features
 - Plugin-free implementation
